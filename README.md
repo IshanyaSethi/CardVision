@@ -18,13 +18,5 @@ The goal of the project is to implement a software that can detect playing cards
 ## Sample outputs
 ![image](./data/outs/Screenshot_20221128_235002.png)
 
-
-## Team Information
-
-- Aryan Singhal - 2020102032
-- Ishanya Sethi - 2020102014
-- Laksh Balani - 2020102019
-- Sankalp Bhat - 2020112018
-
 ## Biblography:
 https://web.stanford.edu/class/ee368/Project_Winter_1819/Reports/snyder.pdf
